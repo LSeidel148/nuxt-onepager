@@ -2,7 +2,7 @@
     <div> 
         <header>
             <h1>Luca Seidel</h1>
-                <p>Fachinformatiker Anwendungsentwicklung (Bewerbung)</p>
+                <p>Fachinformatiker für Anwendungsentwicklung (Bewerbung)</p>
         </header>
 
         <section>
