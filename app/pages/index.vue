@@ -29,7 +29,7 @@
         </section>
 
         <footer> 
-            <p>@ 2026 Luca Seidel</p>
+            <p>© 2026 Luca Seidel</p>
         </footer>
     </div>
 </template>
